@@ -13,7 +13,7 @@ const routes = require("./routes/api");
 
 //MONGO_DB COONECTION VIA APP URI
 const MONGODB_URI =
-  "mongodb+srv://jeffpwalsh:Hyperion1234@l3t5-hyperion-rj1h1.mongodb.net/test?retryWrites=true&w=majority";
+  "mongodb+srv://<HIDDEN CONTENT>@l3t5-hyperion-rj1h1.mongodb.net/test?retryWrites=true&w=majority";
 
 //MONGO_DB CONNECTION
 mongoose.connect(MONGODB_URI, {
