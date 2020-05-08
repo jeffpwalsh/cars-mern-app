@@ -5,18 +5,6 @@
  - Render results in the broswer via ReactJS
  - Edit collection documents 
  - Delete collection documents
- 
-
-     
-## Installation
-
-``` 
-- CD into `main folder`
-- `npm install`
-- CD into `client`
-- `npm install`
-- npm `run dev`
-```
 
 ## Technologies & Tools Used
 ``` 
@@ -26,8 +14,7 @@
 - Nodejs
 - Mongoose
 ```
-
-  
+ 
  ## Log
  07/05/2020
  
